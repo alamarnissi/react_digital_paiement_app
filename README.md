@@ -3,8 +3,17 @@
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+ React JS application consisting of a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, and more!
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+### Features :
+- React functional components
+- Tailwind CSS for UI
+- CSS - flex
+- Soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness on all devices
+
+### Technologies :
+- React JS
+- Tailwind 
+- CSS 
+- ViteJS
