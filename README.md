@@ -17,3 +17,10 @@
 - Tailwind 
 - CSS 
 - ViteJS
+
+### Start using App:
+- start cloning this repo to your localhost
+- change directory to app folder
+- run: npm install 
+- run: npm run dev
+- now you can find you app on : http://127.0.0.1:5173/
